@@ -39,3 +39,11 @@ header{
 #about{
     background-color: #1abc9c;
 }
+
+.ms_form{
+    width: 70%;
+}
+
+.ms_btn{
+    background-color: #1abc9c;
+}
