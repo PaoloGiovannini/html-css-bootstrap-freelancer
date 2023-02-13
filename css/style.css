@@ -26,3 +26,12 @@ header{
 .ms_jumbotron h1{
     font-size: 45px;
 }
+
+#portfolio img{
+    width: 100%;
+    margin: 10px 0px;
+}
+
+.fa-star{
+    font-size: 25px;
+}
